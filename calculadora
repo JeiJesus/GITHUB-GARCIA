@@ -1,0 +1,12 @@
+entrada1= input("escriba el primer numero")
+numero1= int(entrada1)
+entrada2= input("escriba el segundo numero")
+numero2= int(entrada2)
+suma= numero1 + numero2
+print("el resultado de la suma es")
+resta= numero1 - numero2
+print("el resultado de la resta es")
+multiplicacion= numero1 * numero2
+print("el resultado de la resta es")
+division= numero1 / numero2
+print("el resultado de la division es")
